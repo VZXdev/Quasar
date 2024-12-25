@@ -10,6 +10,8 @@
 > [!IMPORTANT]
 > I am not responsible for your accounts, so if you abuse our program and get banned, there is nothing we can do.
 
+> [!WARNING]
+> Attention! Quasar source code is not available to the public! To see the source code of Jupiter, [Follow the link](https://github.com/VZXdev/Jupiter)
 
 
 

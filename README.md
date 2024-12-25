@@ -7,6 +7,9 @@
 > [!TIP]
 > Download from github or from MegaFile
 
+> [!IMPORTANT]
+> I am not responsible for your accounts, so if you abuse our program and get banned, there is nothing we can do.
+
 
 
 

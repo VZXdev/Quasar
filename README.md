@@ -8,7 +8,8 @@
 > Download from github or from MegaFile
 
 > [!IMPORTANT]
-> Guys, in short, I screwed up the quasar source code. If any of you still have it, please write to me on discord: Volkdevelopper
+> Guys, in short, I screwed up the quasar source code. If any of you still have it, please write to me on discord: Volkdevelopper.
+> 
 > I am not responsible for your accounts, so if you abuse our program and get banned, there is nothing we can do.
 
 > [!WARNING]
